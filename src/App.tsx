@@ -71,7 +71,7 @@ function App() {
         <div className="container mx-auto px-4 py-3">
           <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4">
             <h1 className="text-2xl font-bold bg-gradient-to-r from-blue-500 to-purple-500 bg-clip-text text-transparent">
-              Web Teleprompter
+              Roll Script
             </h1>
             <div className="flex items-center gap-4">
               <KeyboardShortcutsHelp />
